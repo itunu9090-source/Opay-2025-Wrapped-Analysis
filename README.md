@@ -14,11 +14,11 @@
 
 - [Data Analysis](#data-analysis)
 
-- [Results Finding](results-finding)
+- [Results Finding](#results-finding)
 
 - [Recommendations](#recommendations)
 
-- [Limitation](limitations)
+- [Limitation](#limitations)
 
 - [References](#references)
  
