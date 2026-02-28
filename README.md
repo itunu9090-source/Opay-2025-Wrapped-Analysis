@@ -23,7 +23,8 @@
 - [References](#references)
  
 ### Project Overview
-```
+
+
 
 This project analyzes a 2025 Opay wallet statement to uncover key insights about income and spending patterns. The goal is to identify trends, understand financial behavior, and provide data‑driven recommendations based on the user’s transactions.
 
