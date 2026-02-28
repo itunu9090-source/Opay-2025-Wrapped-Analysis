@@ -106,7 +106,7 @@ During the analysis, zero values in the debit and credit columns were removed be
 
 2. https://docs.google.com/spreadsheets/d/1NBdsSMLbg144BMwJNLozTDwu3LiwiH0P/edit?usp=sharing&ouid=108965189937125475974&rtpof=true&sd=true
 
-
+💌 for checking
 
 
 
